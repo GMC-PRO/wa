@@ -1,0 +1,37 @@
+{
+  "short_name": "Kirim WA!",
+  "name": "Kirim WA! - Tanpa Menyimpan Kontak.",
+  "description": "Kirim WhatsApp! Tanpa menyimpan Kontak. ( © GMC.MY.ID)",
+  "lang": "id-ID",
+  "theme_color": "#009688",
+  "background_color": "#fff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-uOU4K7imous/XpWyc_HJpSI/AAAAAAAAHcI/JGmh9rVGobw8Cs2Nr4HCPXph5WX3y_XOwCK4BGAsYHg/s48/k-wa.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-uOU4K7imous/XpWyc_HJpSI/AAAAAAAAHcI/JGmh9rVGobw8Cs2Nr4HCPXph5WX3y_XOwCK4BGAsYHg/s96/k-wa.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-uOU4K7imous/XpWyc_HJpSI/AAAAAAAAHcI/JGmh9rVGobw8Cs2Nr4HCPXph5WX3y_XOwCK4BGAsYHg/s144/k-wa.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-uOU4K7imous/XpWyc_HJpSI/AAAAAAAAHcI/JGmh9rVGobw8Cs2Nr4HCPXph5WX3y_XOwCK4BGAsYHg/s192/k-wa.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "./?utm_source=web_app_manifest",
+  "related_applications": [{
+    "platform": "web",
+    "url": "https://gmc.my.id/wa"
+  }]
+}
